@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **bhattacharjeesoma8@gmail.com** For Collaboration/Project 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swag_turns_demure)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumendu-bhattacharjee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumendu-bhattacherjee-001207295/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhattacharjeesoma58@gmail.com)
 
 <!-- Snake Game Repo View -->
